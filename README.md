@@ -32,18 +32,30 @@ Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação 
 
 ---
 
-## 🧰 Skills e Tecnologias  
+## 💼 Skills e Tecnologias
 
-| Categoria | Ferramentas e Tecnologias |
-|------------|----------------------------|
+| 🧩 **Categoria** | 🔧 **Ferramentas e Tecnologias** |
+|------------------|----------------------------------|
 | **Linguagens** | Python, SQL |
 | **Banco de Dados** | MySQL, MariaDB, MongoDB |
 | **Monitoramento** | Grafana, Prometheus |
 | **Infraestrutura** | Linux, Windows Server, Active Directory |
 | **Testes e QA** | Testmo, ClickUp, Notion |
 | **Automação e RPA** | Python, Automação de Processos |
-| **Ferramentas de Versionamento** | Git, GitHub |
+| **Versionamento** | Git, GitHub |
 | **Outros** | Docker, Power BI, HTML, CSS |
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
 
 ---
 
