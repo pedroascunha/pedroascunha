@@ -57,23 +57,8 @@ Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação 
 
 ## 🌐 Contato  
 
-📧 **E-mail:** pedro.augusto@sincronica.com.br  
+📧 **E-mail:** pedro.cunha-32@hotmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/pedro-augusto](https://linkedin.com/in/pedro-augusto)  
 💻 **GitHub:** [github.com/pedroascunha](https://github.com/pedroascunha)
 
----
 
-## 🖼️ Recomendações visuais  
-
-📸 Adicione:
-- Uma **foto profissional** (fundo azul acinzentado, sorriso natural, roupa clara).  
-- Um **banner no GitHub** com elementos de código e ícones Python + RPA.  
-- Ícones de tecnologias com badges:  
-
-```markdown
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
