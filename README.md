@@ -8,7 +8,7 @@
 Sou um profissional apaixonado por **tecnologia, automação e melhoria contínua**, com experiência sólida em **infraestrutura, suporte, testes e análise de sistemas**.  
 Atualmente, atuo na **Sincronica Sistemas Integrados**, criando soluções estratégicas e otimizando indicadores com **Grafana, bancos de dados e Python**.  
 
-Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação (Faculdade Impacta)**, consolidando minha transição para o desenvolvimento **Back-End e Inteligência Artificial**.
+Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação (Faculdade Impacta)**, consolidando minha transição para o desenvolvimento **Back-End , RPA e Inteligência Artificial**.
 
 💡 Busco unir **automação de processos (RPA)** e **análise de dados** para criar soluções escaláveis e seguras.
 
