@@ -1,23 +1,28 @@
+<div align="center">
+
 # 👨‍💻 Pedro Cunha  
 
-🎯 **Analista de Sustentação | Analista de Infraestrutura | Analista de Testes | Entusiasta em Python, RPA e IA**
+🎯 **Profissional de Infraestrutura e Sustentação | Foco em Automação, RPA e IA com Python**
+
+</div>
 
 ---
 
 ## 🧩 Sobre mim  
-Sou um profissional apaixonado por **tecnologia, automação e melhoria contínua**, com experiência sólida em **infraestrutura, suporte, testes e análise de sistemas**.  
-Atualmente, atuo na **Sincronica Sistemas Integrados**, criando soluções estratégicas e otimizando indicadores com **Grafana, bancos de dados e Python**.  
+Sou um profissional apaixonado por **tecnologia, automação e melhoria contínua**, com sólida experiência em **infraestrutura, sustentação, testes e análise de sistemas**.  
+Atuo na **Sincronia Sistemas Integrados**, desenvolvendo soluções estratégicas e otimizando indicadores com **Grafana, bancos de dados e Python**.
 
-Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação (Faculdade Impacta)**, consolidando minha transição para o desenvolvimento **Back-End , RPA e Inteligência Artificial**.
+Em **fevereiro de 2026**, iniciarei a graduação em **Sistemas de Informação (Faculdade Impacta)**, consolidando minha transição para **Desenvolvimento Back-End, RPA e Inteligência Artificial**.
 
-💡 Busco unir **automação de processos (RPA)** e **análise de dados** para criar soluções escaláveis e seguras.
+💡 Meu objetivo é integrar **automação de processos, observabilidade e análise de dados** para construir ambientes **escaláveis, seguros e inteligentes**.
 
 ---
 
 ## 🚀 Projetos em Destaque  
 
 ### 📘 [ebook-ia-rpa-segura](https://github.com/pedroascunha/ebook-ia-rpa-segura)
-> Material educativo e prático sobre **RPA e Inteligência Artificial Segura**, com foco em boas práticas e governança no uso de automações.
+> Material educativo sobre **RPA e Inteligência Artificial Segura**, com foco em **boas práticas e governança** no uso de automações.  
+📖 **Objetivo:** compartilhar conhecimento técnico e incentivar o uso ético da automação no ambiente corporativo.
 
 **Tecnologias:**  
 `Python` `Markdown` `Automação` `Documentação Técnica`
@@ -25,7 +30,8 @@ Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação 
 ---
 
 ### 🎙️ [podcast-ia-rpa-segura](https://github.com/pedroascunha/podcast-ia-rpa-segura)
-> Projeto voltado à criação de um **podcast técnico** sobre segurança em automações RPA e o uso ético da IA no ambiente corporativo.
+> Projeto voltado à criação de um **podcast técnico** sobre segurança em automações RPA e o uso ético da IA.  
+🎧 **Objetivo:** traduzir temas complexos em conversas acessíveis para profissionais de TI e negócios.
 
 **Tecnologias:**  
 `Python` `IA` `Automação` `Audio Processing`
@@ -62,7 +68,6 @@ Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação 
 
 </div>
 
-
 ---
 
 ## 🧾 Certificações  
@@ -73,10 +78,24 @@ Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação 
 
 ---
 
+<div align="center">
+
+## 📊 Estatísticas GitHub  
+
+[![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroascunha&show_icons=true&theme=tokyonight)](https://github.com/pedroascunha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroascunha&layout=compact&theme=tokyonight)](https://github.com/pedroascunha)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedroascunha&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🌐 Contato  
 
-📧 **E-mail:** pedro.cunha-32@hotmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/pedrocunha-tech](https://linkedin.com/in/pedrocunha-tech)  
-💻 **GitHub:** [github.com/pedroascunha](https://github.com/pedroascunha)
+[![Email](https://img.shields.io/badge/Email-pedro.cunha--32%40hotmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.cunha-32@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrocunha--tech-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrocunha-tech)
+[![GitHub](https://img.shields.io/badge/GitHub-pedroascunha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroascunha)
 
-
+</div>
