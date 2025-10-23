@@ -82,9 +82,14 @@ Em **fevereiro de 2026**, iniciarei a graduação em **Sistemas de Informação 
 
 ## 📊 Estatísticas GitHub  
 
-[![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroascunha&show_icons=true&theme=tokyonight)](https://github.com/pedroascunha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroascunha&layout=compact&theme=tokyonight)](https://github.com/pedroascunha)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedroascunha&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedroascunha&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroascunha&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=pedroascunha&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 </div>
 
