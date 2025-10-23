@@ -87,10 +87,6 @@ Em **fevereiro de 2026**, iniciarei a graduação em **Sistemas de Informação 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroascunha&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=pedroascunha&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
 </div>
 
 ---
