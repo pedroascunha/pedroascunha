@@ -82,10 +82,13 @@ Em **fevereiro de 2026**, iniciarei a graduação em **Sistemas de Informação 
 
 ## 📊 Estatísticas GitHub  
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedroascunha&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroascunha&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+<div align="center">
+
+### ⚙️ Atividade no GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroascunha&show_icons=true&theme=aura&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroascunha&layout=compact&theme=aura&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=pedroascunha&theme=aura&hide_border=true)
 
 </div>
 
