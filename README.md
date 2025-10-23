@@ -76,7 +76,7 @@ Em fevereiro de **2026**, iniciarei a graduação em **Sistemas de Informação 
 ## 🌐 Contato  
 
 📧 **E-mail:** pedro.cunha-32@hotmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/pedro-augusto](https://linkedin.com/in/pedro-augusto)  
+🔗 **LinkedIn:** [linkedin.com/in/pedrocunha-tech](https://linkedin.com/in/pedrocunha-tech)  
 💻 **GitHub:** [github.com/pedroascunha](https://github.com/pedroascunha)
 
 
